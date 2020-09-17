@@ -15,7 +15,7 @@ const useStyles = makeStyles((theme) => ({
         textAlign: 'center'
     },
     margin : {
-        margin : '5%',
+        // margin : '5%',
         marginTop : '6%'
     },
     titleSize : {
